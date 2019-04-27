@@ -31,3 +31,5 @@ options| 探测请求，如果没问题请求
     configurable false 不可以修改或者删除 true 可以删除
     value 获取该属性对应的属性值
     set/get set 设置 get 获取
+### 全站开发之路
+    https://juejin.im/post/5cc02aacf265da039e1ff3fa
