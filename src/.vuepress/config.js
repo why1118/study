@@ -25,7 +25,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: 'jasonandjay/study',
+    repo: 'why1118/study',
 
     docsDir: 'src',
     editLinks: true,
@@ -33,7 +33,7 @@ module.exports = {
     locales: {
       '/': {
         label: '简体中文',
-        repo: 'jasonandjay/study',
+        repo: 'why1118/study',
       
         selectText: '选择语言',
         editLinkText: '帮助我们改进内容',
@@ -48,8 +48,7 @@ module.exports = {
             items: [
               { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
               { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'},
-              { text: '数学趣题(三)', link: '/zh/algorithm/Charpter7.md'}
+              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
             ],
           },
           {
@@ -79,6 +78,12 @@ module.exports = {
               { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
               { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
               { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
+            ]
+          },
+          {
+            text: '笔记',
+            items: [
+              { text: 'flex-布局', link: '/zh/note/flex.md'}
             ]
           },
           // {
