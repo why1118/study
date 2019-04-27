@@ -84,7 +84,8 @@ module.exports = {
             text: '笔记',
             items: [
               { text: 'flex-布局', link: '/zh/note/flex.md'},
-              { text: '零散知识点', link: '/zh/note/knowledge.md'}
+              { text: '零散知识点', link: '/zh/note/knowledge.md'},
+              { text: 'es6总结', link: '/zh/note/es6.md'}
             ]
           },
           // {
