@@ -85,7 +85,10 @@ module.exports = {
             items: [
               { text: 'flex-布局', link: '/zh/note/flex.md'},
               { text: '零散知识点', link: '/zh/note/knowledge.md'},
-              { text: 'es6总结', link: '/zh/note/es6.md'}
+              { text: 'es6总结', link: '/zh/note/es6.md'},
+              { text: 'web总结', link: '/zh/note/web_summarize.md'},
+              { text: 'web-flow', link: '/zh/note/web-flow.md'},
+              { text: 'Bootstrap', link: '/zh/note/Bootstrap.md'},
             ]
           },
           // {
