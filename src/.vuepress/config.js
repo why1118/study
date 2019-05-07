@@ -48,7 +48,8 @@ module.exports = {
             items: [
               { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
               { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
+              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'},
+              { text: 'diff算法', link: '/zh/algorithm/Charpter7.md'}
             ],
           },
           {
