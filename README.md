@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1798187804,2604021147&fm=26&gp=0.jpg" alt="logo">
+  <img width="280" src="https://upload-images.jianshu.io/upload_images/13341631-83956cd514eeb635.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp" alt="logo">
 </p>
 
 ## Target
